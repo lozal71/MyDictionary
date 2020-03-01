@@ -1,0 +1,6 @@
+D:\itstep\C#\Projects\Exam_Dictionary\LingvaDict\LingvaDict\bin\Debug\LingvaDict.exe.config
+D:\itstep\C#\Projects\Exam_Dictionary\LingvaDict\LingvaDict\bin\Debug\LingvaDict.exe
+D:\itstep\C#\Projects\Exam_Dictionary\LingvaDict\LingvaDict\bin\Debug\LingvaDict.pdb
+D:\itstep\C#\Projects\Exam_Dictionary\LingvaDict\LingvaDict\obj\Debug\LingvaDict.csprojAssemblyReference.cache
+D:\itstep\C#\Projects\Exam_Dictionary\LingvaDict\LingvaDict\obj\Debug\LingvaDict.exe
+D:\itstep\C#\Projects\Exam_Dictionary\LingvaDict\LingvaDict\obj\Debug\LingvaDict.pdb
